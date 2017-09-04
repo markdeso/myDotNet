@@ -1,1 +1,2 @@
-# somehting important
+# something important
+# This course is importanter
