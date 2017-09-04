@@ -1,0 +1,10 @@
+/Users/markdesouza/Documents/VScode/MyDotnet/bin/Debug/netcoreapp2.0/MyDotnet.deps.json
+/Users/markdesouza/Documents/VScode/MyDotnet/bin/Debug/netcoreapp2.0/MyDotnet.runtimeconfig.json
+/Users/markdesouza/Documents/VScode/MyDotnet/bin/Debug/netcoreapp2.0/MyDotnet.runtimeconfig.dev.json
+/Users/markdesouza/Documents/VScode/MyDotnet/bin/Debug/netcoreapp2.0/MyDotnet.dll
+/Users/markdesouza/Documents/VScode/MyDotnet/bin/Debug/netcoreapp2.0/MyDotnet.pdb
+/Users/markdesouza/Documents/VScode/MyDotnet/obj/Debug/netcoreapp2.0/MyDotnet.csproj.CoreCompileInputs.cache
+/Users/markdesouza/Documents/VScode/MyDotnet/obj/Debug/netcoreapp2.0/MyDotnet.AssemblyInfoInputs.cache
+/Users/markdesouza/Documents/VScode/MyDotnet/obj/Debug/netcoreapp2.0/MyDotnet.AssemblyInfo.cs
+/Users/markdesouza/Documents/VScode/MyDotnet/obj/Debug/netcoreapp2.0/MyDotnet.dll
+/Users/markdesouza/Documents/VScode/MyDotnet/obj/Debug/netcoreapp2.0/MyDotnet.pdb
